@@ -1,0 +1,6 @@
+{
+  "serv-addr":":8080",
+  "std-output":true,
+  "log-write":true,
+  "log-level":"info"
+}
